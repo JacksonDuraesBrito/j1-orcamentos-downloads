@@ -1,6 +1,6 @@
 {
-  "version": "1.0.42",
-  "build": 42,
-  "windows": "https://raw.githubusercontent.com/JacksonDuraesBrito/j1-orcamentos-downloads/main/windows/J1_Orcamentos_Setup_1.0.42.exe",
-  "android": "https://raw.githubusercontent.com/JacksonDuraesBrito/j1-orcamentos-downloads/main/android/J1_Orcamentos_1.0.42.apk"
+  "version": "1.0.43",
+  "build": 43,
+  "windows": "https://raw.githubusercontent.com/JacksonDuraesBrito/j1-orcamentos-downloads/main/windows/J1_Orcamentos_Setup_1.0.43.exe",
+  "android": "https://raw.githubusercontent.com/JacksonDuraesBrito/j1-orcamentos-downloads/main/android/J1_Orcamentos_1.0.43.apk"
 }
